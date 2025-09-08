@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:** Sukhmeet Kaur G
 
-**Register Number:**
+**Register Number:** 2305001032
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -61,6 +61,7 @@ B D
 B E
 C E
 D E
+<img width="827" height="180" alt="image" src="https://github.com/user-attachments/assets/ef7f8e71-3413-4bcf-8cc6-90e5ae2b7f1b" />
 
 ### Sample Output:
 
@@ -68,4 +69,7 @@ Graph: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'E'], 'D': ['B', 'E'],
 
 DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
+<img width="1190" height="60" alt="image" src="https://github.com/user-attachments/assets/308d0c04-02b8-4cc6-933e-d85fa78eb58a" />
+
 **Result:**
+Thus the given program was implemented and executed successfully.
